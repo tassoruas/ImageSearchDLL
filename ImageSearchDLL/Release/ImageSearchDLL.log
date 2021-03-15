@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  ImageSearchDLL.cpp
+  util.cpp
+E:\Pastas\Programacao\C++\ImageSearchDLL\ImageSearchDLL\util.cpp(154,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     Creating library E:\Pastas\Programacao\C++\ImageSearchDLL\Release\ImageSearchDLL.lib and object E:\Pastas\Programacao\C++\ImageSearchDLL\Release\ImageSearchDLL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ImageSearchDLL.vcxproj -> E:\Pastas\Programacao\C++\ImageSearchDLL\Release\ImageSearchDLL.dll
