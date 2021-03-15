@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  ImageSearchDLL.cpp
+  util.cpp
+E:\Pastas\GitHub\ImageSearchDLL\ImageSearchDLL\util.cpp(154,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     Creating library E:\Pastas\GitHub\ImageSearchDLL\Release\ImageSearchDLL.lib and object E:\Pastas\GitHub\ImageSearchDLL\Release\ImageSearchDLL.exp
+  Generating code
+  18 of 19 functions (94.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ImageSearchDLL.vcxproj -> E:\Pastas\GitHub\ImageSearchDLL\Release\ImageSearchDLL.dll
